@@ -1,0 +1,16 @@
+﻿  SSLclient.cpp
+C:\Users\Patrick\source\repos\SSLclient\SSLclient\SSLclient.cpp(112,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Patrick\source\repos\SSLclient\SSLclient\SSLclient.cpp(813,27): warning C4244: '=': conversion from 'unsigned long' to 'char', possible loss of data
+C:\Users\Patrick\source\repos\SSLclient\SSLclient\SSLclient.cpp(671,11): warning C4101: 'cbMessage': unreferenced local variable
+C:\Users\Patrick\source\repos\SSLclient\SSLclient\SSLclient.cpp(939,12): warning C4129: 'h': unrecognized character escape sequence
+C:\Users\Patrick\source\repos\SSLclient\SSLclient\SSLclient.cpp(875,16): warning C4101: 'pDataBuffer': unreferenced local variable
+C:\Users\Patrick\source\repos\SSLclient\SSLclient\SSLclient.cpp(877,21): warning C4101: 'ExtraBuffer': unreferenced local variable
+C:\Users\Patrick\source\repos\SSLclient\SSLclient\SSLclient.cpp(886,11): warning C4101: 'i': unreferenced local variable
+C:\Users\Patrick\source\repos\SSLclient\SSLclient\SSLclient.cpp(876,16): warning C4101: 'pExtraBuffer': unreferenced local variable
+C:\Users\Patrick\source\repos\SSLclient\SSLclient\SSLclient.cpp(880,11): warning C4101: 'cbIoBuffer': unreferenced local variable
+  Generating code
+  2 of 33 functions ( 6.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SSLclient.vcxproj -> C:\Users\Patrick\source\repos\SSLclient\x64\Release\SSLclient.exe
